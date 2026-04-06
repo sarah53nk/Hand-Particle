@@ -82,17 +82,11 @@ or
 
 ## Author
 
-**Your Name**  
-Web Developer & Creative Coder  
-
-GitHub: https://github.com/your-username  
-LinkedIn: https://linkedin.com/in/your-profile
+Sarah nkh
 
 ---
 
-## License
 
-This project is licensed under the **MIT License**.
 
 
 
